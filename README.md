@@ -13,4 +13,4 @@
 ###   at (Morning, Afternoon, Eviening, Night).
 ###   3-User can archive tasks he want.
 ###   4-Repeat Tasks, so the user can redo any task he want.
-###   5-Easy, Attractive and Beautiful UI
+###   5-Easy, Attractive and Beautiful UI.
