@@ -27,6 +27,10 @@
 ###  flutter_local_notifications: ^9.0.0
 ###  timezone: ^0.8.0
 
+## App Design Here:
+
+### https://bit.ly/3BNSXRz
+
 ## The project demo video here:
 
 ### https://bit.ly/2YOCX3j
