@@ -1,4 +1,4 @@
-# Todo App
+# My Todo (A Flutter App)
 
 ##  App built with:
 
