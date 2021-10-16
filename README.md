@@ -19,7 +19,6 @@
 
 ###  google_fonts: ^2.1.0
 ###  ionicons: ^0.1.2
-###  intl: ^0.17.0
 ###  animate_do: ^2.0.0
 ###  bloc: ^7.1.0
 ###  flutter_bloc: ^7.2.0
@@ -28,7 +27,7 @@
 ###  flutter_local_notifications: ^9.0.0
 ###  timezone: ^0.8.0
 
-## The project demo video from here:
+## The project demo video here:
 
 ### https://bit.ly/2YOCX3j
 
